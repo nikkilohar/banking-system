@@ -1,5 +1,5 @@
 # Banking_System
-A Web-based banking system, providing account login, creation, balance inquiry, fund transfers, analytics, and more.
+A banking system, providing account login, creation, balance inquiry, fund transfers, analytics, and more.
 
 I developed a Banking System project during my internship at The Sparks Foundation, further strengthening my hands-on skills in full-stack development and dynamic web applications.
 
